@@ -1,7 +1,7 @@
 const express = require("express");
 
 const BlogModel = require("../model/BlogModel");
-const auth= require("../middleWare/auth")
+const auth= require("../middleware/auth")
 
 const BlogRoute = express.Router();
 
