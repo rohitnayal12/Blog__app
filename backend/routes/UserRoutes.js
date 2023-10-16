@@ -72,7 +72,7 @@ UserRoute.post("/login",async function(req,res){
 
        return res.status(200).json({
         message: "User has been logged in successfully.",
-        token
+        token,user
       })
 
 
