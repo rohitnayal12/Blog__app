@@ -23,7 +23,7 @@ async function auth(req,res,next){
         }
 
         req.body.username=decoded.username
-        req.body.date=new Date().toLocaleDateString('en-GB')
+        req.body.date=new Date().toLocaleDateString()
         req.body.likes=0
         req.body.comments=[]
 
