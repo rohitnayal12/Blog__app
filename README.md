@@ -1,10 +1,10 @@
 # The Blog app
 
-``````
+-----
 
-## Show your thoughts to the readers through this application.
+Show your thoughts to the readers through this application.Experience seamless blogging with our app. Post and edit your blogs, like and comment on others' content, and have the flexibility to delete your own posts. Connect, engage, and share your thoughts effortlessly with our intuitive platform.
 
-Experience seamless blogging with our app. Post and edit your blogs, like and comment on others' content, and have the flexibility to delete your own posts. Connect, engage, and share your thoughts effortlessly with our intuitive platform.
+-----
 
 ### Key Features:
 
@@ -20,6 +20,7 @@ Experience seamless blogging with our app. Post and edit your blogs, like and co
 
 This blog app is not just a platform, it's a blog journey waiting to be written by you. Discover the experience of this app today and let the world read your thoughts.
 
+-----
 ## For Deploying
 [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
 
@@ -28,29 +29,31 @@ This blog app is not just a platform, it's a blog journey waiting to be written 
 - Backend Preview : https://blogs-gvrb.onrender.com
 
   
-
+-----
 # Different Pages of Website
+
+-----
 
 - ### Dashboard Page
   
 
 ![Dashboard](https://github.com/rohitnayal12/blog__app/assets/119488668/21b613aa-666f-4d54-97ae-2ab4b05ed862)
 
-
+-----
 
  - ### SignUp Page
    
 
 ![SignUp](https://github.com/rohitnayal12/blog__app/assets/119488668/7306548b-ca02-4fdb-80ff-997a7559b81f)
 
-
+-----
 
 - ### LogIn Page
   
 
 ![LogIn](https://github.com/rohitnayal12/blog__app/assets/119488668/7e702ea2-80f6-498a-adad-680c26765285)
 
-
+-----
 
 ## Table of Contents
 
@@ -65,7 +68,7 @@ This blog app is not just a platform, it's a blog journey waiting to be written 
   - [Installation](#installation)
 
 
-
+-----
 ## Features
 
 - **User Authentication:**
@@ -78,7 +81,8 @@ This blog app is not just a platform, it's a blog journey waiting to be written 
 - **Backend:**
   - Built with Node.js and Express.js.
   - MongoDB database with MongoDB Atlas for data storage.
-  
+
+  -----
 ## Technologies Used
 
 - Frontend:
@@ -95,7 +99,7 @@ This blog app is not just a platform, it's a blog journey waiting to be written 
   - MongoDB
   - JSON Web Tokens (JWT) for authentication
 
-  
+-----  
 ## Getting Started
 
 ### Prerequisites
