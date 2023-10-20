@@ -1,6 +1,6 @@
-# blog__app
+# The Blog app
 
-# Blog app
+``````
 
 ## Show your thoughts to the readers through this application.
 
